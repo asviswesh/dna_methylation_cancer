@@ -1,1 +1,1 @@
-# dna_methylation_cancer
+Engineered ML models by leveraging DNA methylation profiles from six cancer types downloaded from 'The Cancer Genome Atlas' to predict cancer types with 99.5% precision, recall, and f1_score, demonstrating a promising approach for early cancer detection with the potential for expansion to encompass more cancer types
